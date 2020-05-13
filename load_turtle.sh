@@ -1,0 +1,1 @@
+curl -X POST -H "Content-Type:application/x-turtle" -T example2.ttl  http://localhost:7200/repositories/myrepo/statements
