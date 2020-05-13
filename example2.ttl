@@ -1,0 +1,1796 @@
+@prefix ns1: <http://api.conceptnet.io/r/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://api.conceptnet.io/c/af/fiets/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/ar/أثاث/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ar/إناء/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ar/حاوية/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ar/دراجة_نارية/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ar/سيارة/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/car/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ar/عربة_سكة_حديد/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/car/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ar/فراش/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/mattress/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ar/قطعة_أثاث/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ar/موتور/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/bg/велосипед/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/bn/তোশক/a> ns1:RelatedTo <http://api.conceptnet.io/c/en/mattress> .
+
+<http://api.conceptnet.io/c/ca/anar_en_motocicleta/v/wn/motion> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/v/wn/motion> .
+
+<http://api.conceptnet.io/c/ca/arbre_de_nadal/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/christmas_tree/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ca/contenidor/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ca/matalàs/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/mattress/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ca/mobiliari/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ca/moble/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ca/motocicle/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ca/motocicleta/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ca/patinet/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/scooter/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ca/vagó/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/car/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ceb/banig/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/mattress> .
+
+<http://api.conceptnet.io/c/ceb/basurahan/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/garbage_bag> .
+
+<http://api.conceptnet.io/c/cs/bicykl/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/da/affaldspose/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/garbage_bag> .
+
+<http://api.conceptnet.io/c/da/mc/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/da/motorcykel/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/da/skraldepose/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/garbage_bag> .
+
+<http://api.conceptnet.io/c/da/togvogn/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/car/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/de/christbaum/n> ns1:Synonym <http://api.conceptnet.io/c/en/christmas_tree> .
+
+<http://api.conceptnet.io/c/de/fietse/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/de/motorrad/n> ns1:Synonym <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/de/motorroller/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/scooter> .
+
+<http://api.conceptnet.io/c/de/müllbeutel/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/garbage_bag> ;
+    ns1:Synonym <http://api.conceptnet.io/c/en/garbage_bag> .
+
+<http://api.conceptnet.io/c/de/müllsack/n> ns1:Synonym <http://api.conceptnet.io/c/en/garbage_bag> .
+
+<http://api.conceptnet.io/c/de/rad_fahren/v> ns1:RelatedTo <http://api.conceptnet.io/c/en/bike> ;
+    ns1:Synonym <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/de/radl/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/de/strassenlampe/n> ns1:Synonym <http://api.conceptnet.io/c/en/street_lamp> .
+
+<http://api.conceptnet.io/c/de/strassenlaterne/n> ns1:Synonym <http://api.conceptnet.io/c/en/street_lamp> .
+
+<http://api.conceptnet.io/c/de/weihnachtsbaum/n> ns1:Synonym <http://api.conceptnet.io/c/en/christmas_tree> .
+
+<http://api.conceptnet.io/c/egl/stramàs/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/mattress> .
+
+<http://api.conceptnet.io/c/el/ποδήλατο/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/el/στρώμα/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/mattress> .
+
+<http://api.conceptnet.io/c/en/a> ns1:CapableOf <http://api.conceptnet.io/c/en/container> .
+
+<http://api.conceptnet.io/c/en/accord> ns1:RelatedTo <http://api.conceptnet.io/c/en/car> .
+
+<http://api.conceptnet.io/c/en/achaba/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/motorcycle> .
+
+<http://api.conceptnet.io/c/en/address> ns1:RelatedTo <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/air_mattress/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/mattress/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/air_scooter> ns1:DerivedFrom <http://api.conceptnet.io/c/en/scooter/n> .
+
+<http://api.conceptnet.io/c/en/americana/n/wn/art> ns1:HasContext <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/antibike> ns1:DerivedFrom <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/en/article_of_furniture/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/artificial_christmas_tree/n> ns1:IsA <http://api.conceptnet.io/c/en/christmas_tree/n> .
+
+<http://api.conceptnet.io/c/en/baby> ns1:RelatedTo <http://api.conceptnet.io/c/en/person> .
+
+<http://api.conceptnet.io/c/en/baby_bed/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/bag/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/bank> ns1:RelatedTo <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/barrel> ns1:IsA <http://api.conceptnet.io/c/en/container> .
+
+<http://api.conceptnet.io/c/en/bath> ns1:AtLocation <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/bauble/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/christmas_tree> .
+
+<http://api.conceptnet.io/c/en/beam> ns1:AtLocation <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/bedroom> ns1:AtLocation <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/bedroom_furniture/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/bedstead/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/bike/n> ns1:RelatedTo <http://api.conceptnet.io/c/fr/moto>,
+        <http://api.conceptnet.io/c/fr/vélo> ;
+    ns1:Synonym <http://api.conceptnet.io/c/fr/bicyclette>,
+        <http://api.conceptnet.io/c/fr/vélo> .
+
+<http://api.conceptnet.io/c/en/bike/n/wikt/en_2> ns1:HasContext <http://api.conceptnet.io/c/en/collective> ;
+    ns1:RelatedTo <http://api.conceptnet.io/c/en/hornet> .
+
+<http://api.conceptnet.io/c/en/bike/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/bicycle/n/wn/artifact>,
+        <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/bike/v/wn/motion> ns1:Synonym <http://api.conceptnet.io/c/en/bicycle/v/wn/motion> .
+
+<http://api.conceptnet.io/c/en/bike_motocross> ns1:DerivedFrom <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/en/biked/v> ns1:RelatedTo <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/en/bikelash> ns1:DerivedFrom <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/en/bikeless> ns1:DerivedFrom <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/en/bikelike> ns1:DerivedFrom <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/en/bikepacker> ns1:DerivedFrom <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/en/bikeporn> ns1:DerivedFrom <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/en/bikes/n> ns1:FormOf <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/en/bikeshare> ns1:DerivedFrom <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/en/bikeshed> ns1:DerivedFrom <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/en/biketard> ns1:DerivedFrom <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/en/bikewear> ns1:DerivedFrom <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/en/bikie> ns1:DerivedFrom <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/en/biking/v> ns1:FormOf <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/en/bin> ns1:IsA <http://api.conceptnet.io/c/en/container> ;
+    ns1:RelatedTo <http://api.conceptnet.io/c/en/container> .
+
+<http://api.conceptnet.io/c/en/bin/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/bmw> ns1:IsA <http://api.conceptnet.io/c/en/car> .
+
+<http://api.conceptnet.io/c/en/body> ns1:RelatedTo <http://api.conceptnet.io/c/en/person> .
+
+<http://api.conceptnet.io/c/en/bookcase/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/boris_bike/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/en/bottle> ns1:IsA <http://api.conceptnet.io/c/en/container> .
+
+<http://api.conceptnet.io/c/en/bottom_sheet/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/mattress> .
+
+<http://api.conceptnet.io/c/en/bowl/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/box> ns1:IsA <http://api.conceptnet.io/c/en/container> ;
+    ns1:RelatedTo <http://api.conceptnet.io/c/en/container> .
+
+<http://api.conceptnet.io/c/en/box/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/brain> ns1:AtLocation <http://api.conceptnet.io/c/en/person> .
+
+<http://api.conceptnet.io/c/en/brother> ns1:AtLocation <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/bucket> ns1:IsA <http://api.conceptnet.io/c/en/container> .
+
+<http://api.conceptnet.io/c/en/buffet/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/bumper> ns1:PartOf <http://api.conceptnet.io/c/en/car> .
+
+<http://api.conceptnet.io/c/en/bumper/n/wn/artifact> ns1:PartOf <http://api.conceptnet.io/c/en/car/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/bunker/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/cabinet> ns1:IsA <http://api.conceptnet.io/c/en/furniture> .
+
+<http://api.conceptnet.io/c/en/cabinet/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/can> ns1:RelatedTo <http://api.conceptnet.io/c/en/container> .
+
+<http://api.conceptnet.io/c/en/can/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/canister/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/capsule/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/carpet> ns1:AtLocation <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/case> ns1:RelatedTo <http://api.conceptnet.io/c/en/container> .
+
+<http://api.conceptnet.io/c/en/case/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/castle> ns1:RelatedTo <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/cat> ns1:AtLocation <http://api.conceptnet.io/c/en/house> ;
+    ns1:RelatedTo <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/cdr/n> ns1:Antonym <http://api.conceptnet.io/c/en/car> .
+
+<http://api.conceptnet.io/c/en/chair> ns1:RelatedTo <http://api.conceptnet.io/c/en/furniture> .
+
+<http://api.conceptnet.io/c/en/chalet/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/house/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/charlie_brown_tree> ns1:IsA <http://api.conceptnet.io/c/en/christmas_tree/n> .
+
+<http://api.conceptnet.io/c/en/charlie_brown_tree/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/christmas_tree> .
+
+<http://api.conceptnet.io/c/en/chattel/n/wn/furniture> ns1:HasContext <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/chest_of_drawers/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/child> ns1:RelatedTo <http://api.conceptnet.io/c/en/person> .
+
+<http://api.conceptnet.io/c/en/christmas_tree/n/wn/plant> ns1:Synonym <http://api.conceptnet.io/c/en/amabilis_fir/n/wn/plant>,
+        <http://api.conceptnet.io/c/en/christmas_bush/n/wn/plant>,
+        <http://api.conceptnet.io/c/en/european_silver_fir/n/wn/plant>,
+        <http://api.conceptnet.io/c/en/flame_tree/n/wn/plant> .
+
+<http://api.conceptnet.io/c/en/christmas_tree_bill> ns1:DerivedFrom <http://api.conceptnet.io/c/en/christmas_tree>,
+        <http://api.conceptnet.io/c/en/christmas_tree/n> .
+
+<http://api.conceptnet.io/c/en/christmas_tree_formation> ns1:DerivedFrom <http://api.conceptnet.io/c/en/christmas_tree/n> .
+
+<http://api.conceptnet.io/c/en/christmas_trees> ns1:FormOf <http://api.conceptnet.io/c/en/christmas_tree> .
+
+<http://api.conceptnet.io/c/en/church> ns1:RelatedTo <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/clock> ns1:AtLocation <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/clothes> ns1:AtLocation <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/clothing> ns1:AtLocation <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/coffee> ns1:AtLocation <http://api.conceptnet.io/c/en/container> .
+
+<http://api.conceptnet.io/c/en/computer> ns1:AtLocation <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/condiments> ns1:AtLocation <http://api.conceptnet.io/c/en/container> .
+
+<http://api.conceptnet.io/c/en/cottage> ns1:IsA <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/couch> ns1:AtLocation <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/coupe/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/car/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/cream/n/wn/artifact> ns1:UsedFor <http://api.conceptnet.io/c/en/person/n/wn> .
+
+<http://api.conceptnet.io/c/en/cross_bike> ns1:DerivedFrom <http://api.conceptnet.io/c/en/bike/n/wikt/en_1> .
+
+<http://api.conceptnet.io/c/en/cutdown/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/scooter> .
+
+<http://api.conceptnet.io/c/en/cycle/v/wn/motion> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/v/wn/motion> .
+
+<http://api.conceptnet.io/c/en/cylinder/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/decorations_in_or_rather> ns1:AtLocation <http://api.conceptnet.io/c/en/christmas_tree> .
+
+<http://api.conceptnet.io/c/en/desk> ns1:IsA <http://api.conceptnet.io/c/en/furniture> ;
+    ns1:RelatedTo <http://api.conceptnet.io/c/en/furniture> .
+
+<http://api.conceptnet.io/c/en/dining_room_furniture/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/dish/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/dispenser/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/diving_scooter> ns1:DerivedFrom <http://api.conceptnet.io/c/en/scooter/n> .
+
+<http://api.conceptnet.io/c/en/doctor> ns1:RelatedTo <http://api.conceptnet.io/c/en/person> .
+
+<http://api.conceptnet.io/c/en/dog> ns1:AtLocation <http://api.conceptnet.io/c/en/house> ;
+    ns1:RelatedTo <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/doll> ns1:RelatedTo <http://api.conceptnet.io/c/en/person> .
+
+<http://api.conceptnet.io/c/en/door_with_lock> ns1:AtLocation <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/drawer> ns1:IsA <http://api.conceptnet.io/c/en/container> .
+
+<http://api.conceptnet.io/c/en/drawer/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/dresser> ns1:AtLocation <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/drive> ns1:RelatedTo <http://api.conceptnet.io/c/en/car> .
+
+<http://api.conceptnet.io/c/en/ebonize/v/wn/furniture> ns1:HasContext <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/envelope/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/etagere/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/farm> ns1:RelatedTo <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/farmer> ns1:RelatedTo <http://api.conceptnet.io/c/en/person> .
+
+<http://api.conceptnet.io/c/en/fat_bike> ns1:DerivedFrom <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/en/feather_bed/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/mattress/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/featherbed/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/mattress> .
+
+<http://api.conceptnet.io/c/en/festivus_pole/n> ns1:SimilarTo <http://api.conceptnet.io/c/en/christmas_tree> .
+
+<http://api.conceptnet.io/c/en/find_inside> ns1:IsA <http://api.conceptnet.io/c/en/furniture> .
+
+<http://api.conceptnet.io/c/en/fire_extinguisher> ns1:AtLocation <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/fitment/n/wn/furniture> ns1:IsA <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/flask> ns1:IsA <http://api.conceptnet.io/c/en/container> .
+
+<http://api.conceptnet.io/c/en/floor> ns1:AtLocation <http://api.conceptnet.io/c/en/house> ;
+    ns1:RelatedTo <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/food> ns1:AtLocation <http://api.conceptnet.io/c/en/container> .
+
+<http://api.conceptnet.io/c/en/freight_car/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/car/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/furnish> ns1:RelatedTo <http://api.conceptnet.io/c/en/furniture> .
+
+<http://api.conceptnet.io/c/en/furnished/a/wn/furniture> ns1:HasContext <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/furniture/n> ns1:Synonym <http://api.conceptnet.io/c/sh/nameštaj> .
+
+<http://api.conceptnet.io/c/en/futon/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/mattress/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/garbage_bags> ns1:FormOf <http://api.conceptnet.io/c/en/garbage_bag/n> .
+
+<http://api.conceptnet.io/c/en/garbage_bags/n> ns1:FormOf <http://api.conceptnet.io/c/en/garbage_bag> ;
+    ns1:RelatedTo <http://api.conceptnet.io/c/en/garbage_bag> .
+
+<http://api.conceptnet.io/c/en/garden> ns1:PartOf <http://api.conceptnet.io/c/en/house> ;
+    ns1:RelatedTo <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/glad> ns1:RelatedTo <http://api.conceptnet.io/c/en/garbage_bag> .
+
+<http://api.conceptnet.io/c/en/glass> ns1:RelatedTo <http://api.conceptnet.io/c/en/container> .
+
+<http://api.conceptnet.io/c/en/glass/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/going_somewhere> ns1:HasPrerequisite <http://api.conceptnet.io/c/en/car> .
+
+<http://api.conceptnet.io/c/en/grille/n/wn/artifact> ns1:PartOf <http://api.conceptnet.io/c/en/car/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/grip/n/wn/car> ns1:HasContext <http://api.conceptnet.io/c/en/car/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/guard> ns1:RelatedTo <http://api.conceptnet.io/c/en/person> .
+
+<http://api.conceptnet.io/c/en/hallstand/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/hallway> ns1:AtLocation <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/handbike> ns1:DerivedFrom <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/en/hanukkah_bush/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/christmas_tree> .
+
+<http://api.conceptnet.io/c/en/heater> ns1:AtLocation <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/honda> ns1:IsA <http://api.conceptnet.io/c/en/car> .
+
+<http://api.conceptnet.io/c/en/horn> ns1:PartOf <http://api.conceptnet.io/c/en/car> .
+
+<http://api.conceptnet.io/c/en/hoverbike> ns1:DerivedFrom <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/en/hyperbike> ns1:DerivedFrom <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/en/ice_scooter> ns1:DerivedFrom <http://api.conceptnet.io/c/en/scooter/n> .
+
+<http://api.conceptnet.io/c/en/ironman/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/en/jar> ns1:IsA <http://api.conceptnet.io/c/en/container> ;
+    ns1:RelatedTo <http://api.conceptnet.io/c/en/container> .
+
+<http://api.conceptnet.io/c/en/jug> ns1:IsA <http://api.conceptnet.io/c/en/container> .
+
+<http://api.conceptnet.io/c/en/kick_scooter/n> ns1:IsA <http://api.conceptnet.io/c/en/scooter/n> ;
+    ns1:RelatedTo <http://api.conceptnet.io/c/en/scooter> .
+
+<http://api.conceptnet.io/c/en/kick_starter/n/wn/artifact> ns1:PartOf <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/kickstand/n/wn/artifact> ns1:PartOf <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/knockdown/a/wn/furniture> ns1:HasContext <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/lawn_furniture/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/leg/n/wn/artifact> ns1:RelatedTo <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/lightpole/n> ns1:SimilarTo <http://api.conceptnet.io/c/en/street_lamp> .
+
+<http://api.conceptnet.io/c/en/litrebike> ns1:DerivedFrom <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/en/lizard> ns1:AtLocation <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/mail> ns1:AtLocation <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/mailer/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/manger/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/mansion> ns1:IsA <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/mattress/n> ns1:ExternalURL <http://api.conceptnet.iohttp://sw.opencyc.org/2012/05/10/concept/en/Mattress> ;
+    ns1:RelatedTo <http://api.conceptnet.io/c/en/cloth>,
+        <http://api.conceptnet.io/c/en/foam> ;
+    ns1:Synonym <http://api.conceptnet.io/c/az/döşək>,
+        <http://api.conceptnet.io/c/bg/дюшек>,
+        <http://api.conceptnet.io/c/bo/ཉལ_གདན>,
+        <http://api.conceptnet.io/c/cy/matrasau>,
+        <http://api.conceptnet.io/c/es/colchón>,
+        <http://api.conceptnet.io/c/fa/برخوابه>,
+        <http://api.conceptnet.io/c/fo/madrassa>,
+        <http://api.conceptnet.io/c/fr/matelas>,
+        <http://api.conceptnet.io/c/fr/paillasse>,
+        <http://api.conceptnet.io/c/kk/матрас>,
+        <http://api.conceptnet.io/c/nrf/matenas>,
+        <http://api.conceptnet.io/c/ro/saltea>,
+        <http://api.conceptnet.io/c/ru/матрас>,
+        <http://api.conceptnet.io/c/sh/dušek>,
+        <http://api.conceptnet.io/c/sh/madrac>,
+        <http://api.conceptnet.io/c/sw/godoro>,
+        <http://api.conceptnet.io/c/tr/döşek>,
+        <http://api.conceptnet.io/c/zh/床垫> .
+
+<http://api.conceptnet.io/c/en/maxiscooter> ns1:DerivedFrom <http://api.conceptnet.io/c/en/scooter/n> .
+
+<http://api.conceptnet.io/c/en/memory_foam/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/mattress> .
+
+<http://api.conceptnet.io/c/en/milk> ns1:AtLocation <http://api.conceptnet.io/c/en/container> .
+
+<http://api.conceptnet.io/c/en/minibike/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/minicar/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/car/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/minivan/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/car/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/mirror> ns1:AtLocation <http://api.conceptnet.io/c/en/car> .
+
+<http://api.conceptnet.io/c/en/mold/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/motocross> ns1:DerivedFrom <http://api.conceptnet.io/c/en/motorcycle> .
+
+<http://api.conceptnet.io/c/en/motor> ns1:RelatedTo <http://api.conceptnet.io/c/en/car> .
+
+<http://api.conceptnet.io/c/en/motorbike/v/wn/motion> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/v/wn/motion> .
+
+<http://api.conceptnet.io/c/en/motorcar/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/car/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/motorcycle/n> ns1:Synonym <http://api.conceptnet.io/c/en/bike>,
+        <http://api.conceptnet.io/c/sh/motocikl>,
+        <http://api.conceptnet.io/c/yi/מאטאציקל> .
+
+<http://api.conceptnet.io/c/en/motorized_scooter> ns1:DerivedFrom <http://api.conceptnet.io/c/en/scooter/n> .
+
+<http://api.conceptnet.io/c/en/move> ns1:RelatedTo <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/mudguard/n/wn/artifact> ns1:PartOf <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/mug> ns1:IsA <http://api.conceptnet.io/c/en/container> .
+
+<http://api.conceptnet.io/c/en/name> ns1:RelatedTo <http://api.conceptnet.io/c/en/person> .
+
+<http://api.conceptnet.io/c/en/nest> ns1:RelatedTo <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/nest/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/office_furniture/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/oil> ns1:RelatedTo <http://api.conceptnet.io/c/en/car> .
+
+<http://api.conceptnet.io/c/en/oldsmobile> ns1:IsA <http://api.conceptnet.io/c/en/car> .
+
+<http://api.conceptnet.io/c/en/ornament/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/christmas_tree> .
+
+<http://api.conceptnet.io/c/en/package/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/paillasse/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/mattress/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/paint> ns1:RelatedTo <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/pallet/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/mattress/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/palliasse/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/mattress> .
+
+<http://api.conceptnet.io/c/en/pan/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/panic_rev/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/en/passengers> ns1:AtLocation <http://api.conceptnet.io/c/en/car> .
+
+<http://api.conceptnet.io/c/en/peanut_butter> ns1:AtLocation <http://api.conceptnet.io/c/en/container> .
+
+<http://api.conceptnet.io/c/en/people> ns1:RelatedTo <http://api.conceptnet.io/c/en/person> .
+
+<http://api.conceptnet.io/c/en/pet> ns1:AtLocation <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/pianos> ns1:IsA <http://api.conceptnet.io/c/en/furniture> .
+
+<http://api.conceptnet.io/c/en/piece_of_furniture/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/pillion/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/motorcycle> .
+
+<http://api.conceptnet.io/c/en/pitcher> ns1:IsA <http://api.conceptnet.io/c/en/container> .
+
+<http://api.conceptnet.io/c/en/plate> ns1:RelatedTo <http://api.conceptnet.io/c/en/container> .
+
+<http://api.conceptnet.io/c/en/plumbing> ns1:AtLocation <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/pod/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/polish> ns1:RelatedTo <http://api.conceptnet.io/c/en/furniture> .
+
+<http://api.conceptnet.io/c/en/porch> ns1:RelatedTo <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/pot/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/powder_horn/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/present> ns1:AtLocation <http://api.conceptnet.io/c/en/christmas_tree> .
+
+<http://api.conceptnet.io/c/en/property> ns1:RelatedTo <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/push_bike> ns1:DerivedFrom <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/en/push_scooter> ns1:DerivedFrom <http://api.conceptnet.io/c/en/scooter/n> .
+
+<http://api.conceptnet.io/c/en/push_scooter/n> ns1:Synonym <http://api.conceptnet.io/c/en/scooter> .
+
+<http://api.conceptnet.io/c/en/receptacle> ns1:RelatedTo <http://api.conceptnet.io/c/en/trash_bin> .
+
+<http://api.conceptnet.io/c/en/refuse> ns1:AtLocation <http://api.conceptnet.io/c/en/trash_bin> .
+
+<http://api.conceptnet.io/c/en/reliquary/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/rent> ns1:RelatedTo <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/ride> ns1:RelatedTo <http://api.conceptnet.io/c/en/bike>,
+        <http://api.conceptnet.io/c/en/car> .
+
+<http://api.conceptnet.io/c/en/riders> ns1:AtLocation <http://api.conceptnet.io/c/en/car> .
+
+<http://api.conceptnet.io/c/en/riding_bike> ns1:HasPrerequisite <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/en/rosemaling/n/wn/furniture> ns1:HasContext <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/rubbish_bag/n> ns1:Synonym <http://api.conceptnet.io/c/en/garbage_bag> .
+
+<http://api.conceptnet.io/c/en/savings_bank/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/scooter/n/wn/animal> ns1:Synonym <http://api.conceptnet.io/c/en/scoter/n/wn/animal> .
+
+<http://api.conceptnet.io/c/en/scootered/v> ns1:FormOf <http://api.conceptnet.io/c/en/scooter> .
+
+<http://api.conceptnet.io/c/en/scootering> ns1:DerivedFrom <http://api.conceptnet.io/c/en/scooter/n>,
+        <http://api.conceptnet.io/c/en/scooter/v> .
+
+<http://api.conceptnet.io/c/en/scootering/v> ns1:FormOf <http://api.conceptnet.io/c/en/scooter> .
+
+<http://api.conceptnet.io/c/en/scooterist> ns1:DerivedFrom <http://api.conceptnet.io/c/en/scooter/n> .
+
+<http://api.conceptnet.io/c/en/scooterless/a> ns1:RelatedTo <http://api.conceptnet.io/c/en/scooter> .
+
+<http://api.conceptnet.io/c/en/scooterlike> ns1:DerivedFrom <http://api.conceptnet.io/c/en/scooter> .
+
+<http://api.conceptnet.io/c/en/scooters> ns1:FormOf <http://api.conceptnet.io/c/en/scooter/n> .
+
+<http://api.conceptnet.io/c/en/scooters/n> ns1:FormOf <http://api.conceptnet.io/c/en/scooter> .
+
+<http://api.conceptnet.io/c/en/scooters/v> ns1:FormOf <http://api.conceptnet.io/c/en/scooter> .
+
+<http://api.conceptnet.io/c/en/screw> ns1:AtLocation <http://api.conceptnet.io/c/en/motorcycle> .
+
+<http://api.conceptnet.io/c/en/scuttle/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/sea_scooter> ns1:DerivedFrom <http://api.conceptnet.io/c/en/scooter/n> .
+
+<http://api.conceptnet.io/c/en/seat/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/secondhand_car/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/car/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/sectional/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/servant> ns1:RelatedTo <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/sink> ns1:AtLocation <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/slave> ns1:IsA <http://api.conceptnet.io/c/en/person> .
+
+<http://api.conceptnet.io/c/en/sleeper/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/snow_bike> ns1:DerivedFrom <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/en/snowscoot> ns1:DerivedFrom <http://api.conceptnet.io/c/en/scooter> .
+
+<http://api.conceptnet.io/c/en/sodium_vapor_lamp/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/street_lamp> .
+
+<http://api.conceptnet.io/c/en/sofa> ns1:AtLocation <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/soup> ns1:AtLocation <http://api.conceptnet.io/c/en/container> .
+
+<http://api.conceptnet.io/c/en/spoon/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/sportbike> ns1:DerivedFrom <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/en/spring_mattress/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/mattress/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/square_scooter> ns1:DerivedFrom <http://api.conceptnet.io/c/en/scooter/n> .
+
+<http://api.conceptnet.io/c/en/stabilizer_bar/n/wn/artifact> ns1:PartOf <http://api.conceptnet.io/c/en/car/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/stairs> ns1:AtLocation <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/stairwell> ns1:AtLocation <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/statue> ns1:RelatedTo <http://api.conceptnet.io/c/en/person> .
+
+<http://api.conceptnet.io/c/en/stereo> ns1:AtLocation <http://api.conceptnet.io/c/en/car> .
+
+<http://api.conceptnet.io/c/en/stock_car/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/car/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/storage_pan> ns1:IsA <http://api.conceptnet.io/c/en/container> .
+
+<http://api.conceptnet.io/c/en/stored_item> ns1:AtLocation <http://api.conceptnet.io/c/en/container> .
+
+<http://api.conceptnet.io/c/en/stove> ns1:AtLocation <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/street_lamp/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/streetlight> ;
+    ns1:Synonym <http://api.conceptnet.io/c/de/strassenlampe>,
+        <http://api.conceptnet.io/c/fi/katulamppu>,
+        <http://api.conceptnet.io/c/no/gatelykt> .
+
+<http://api.conceptnet.io/c/en/street_lamp/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/streetlight/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/street_lamps/n> ns1:FormOf <http://api.conceptnet.io/c/en/street_lamp> .
+
+<http://api.conceptnet.io/c/en/streetlight/n> ns1:Synonym <http://api.conceptnet.io/c/en/street_lamp> .
+
+<http://api.conceptnet.io/c/en/table> ns1:RelatedTo <http://api.conceptnet.io/c/en/furniture> .
+
+<http://api.conceptnet.io/c/en/table/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/tables> ns1:AtLocation <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/terrace> ns1:AtLocation <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/thimble/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/tick/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/mattress/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/tin> ns1:RelatedTo <http://api.conceptnet.io/c/en/container> .
+
+<http://api.conceptnet.io/c/en/tire> ns1:PartOf <http://api.conceptnet.io/c/en/car> .
+
+<http://api.conceptnet.io/c/en/toilet> ns1:AtLocation <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/town_bike> ns1:DerivedFrom <http://api.conceptnet.io/c/en/bike/n/wikt/en_1> .
+
+<http://api.conceptnet.io/c/en/trail_bike/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/trash> ns1:AtLocation <http://api.conceptnet.io/c/en/container>,
+        <http://api.conceptnet.io/c/en/trash_bin> ;
+    ns1:LocatedNear <http://api.conceptnet.io/c/en/trash_bin> .
+
+<http://api.conceptnet.io/c/en/trash_bag/n> ns1:Synonym <http://api.conceptnet.io/c/en/garbage_bag> .
+
+<http://api.conceptnet.io/c/en/trash_bin/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/rubbish_bin> .
+
+<http://api.conceptnet.io/c/en/trash_bin/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/ashcan/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/trash_bins/n> ns1:FormOf <http://api.conceptnet.io/c/en/trash_bin> .
+
+<http://api.conceptnet.io/c/en/trash_can/n> ns1:Synonym <http://api.conceptnet.io/c/en/trash_bin> .
+
+<http://api.conceptnet.io/c/en/trash_drawer/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/garbage_bag> .
+
+<http://api.conceptnet.io/c/en/trashbin/n> ns1:FormOf <http://api.conceptnet.io/c/en/trash_bin> .
+
+<http://api.conceptnet.io/c/en/trim/v> ns1:RelatedTo <http://api.conceptnet.io/c/en/christmas_tree> .
+
+<http://api.conceptnet.io/c/en/trimmings> ns1:RelatedTo <http://api.conceptnet.io/c/en/christmas_tree> .
+
+<http://api.conceptnet.io/c/en/trunk> ns1:AtLocation <http://api.conceptnet.io/c/en/car> .
+
+<http://api.conceptnet.io/c/en/tv> ns1:AtLocation <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/umbrella> ns1:AtLocation <http://api.conceptnet.io/c/en/car> .
+
+<http://api.conceptnet.io/c/en/uncle> ns1:AtLocation <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/vase> ns1:IsA <http://api.conceptnet.io/c/en/container> .
+
+<http://api.conceptnet.io/c/en/vessel> ns1:RelatedTo <http://api.conceptnet.io/c/en/container> .
+
+<http://api.conceptnet.io/c/en/vessel/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/volkswagen> ns1:IsA <http://api.conceptnet.io/c/en/car> .
+
+<http://api.conceptnet.io/c/en/volvo> ns1:IsA <http://api.conceptnet.io/c/en/car> .
+
+<http://api.conceptnet.io/c/en/wall> ns1:AtLocation <http://api.conceptnet.io/c/en/house> ;
+    ns1:PartOf <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/wall_unit/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/wallet> ns1:RelatedTo <http://api.conceptnet.io/c/en/container> .
+
+<http://api.conceptnet.io/c/en/wardrobe/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/washstand/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/watering_can/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/wheelie/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/motorcycle> .
+
+<http://api.conceptnet.io/c/en/window> ns1:AtLocation <http://api.conceptnet.io/c/en/house> ;
+    ns1:RelatedTo <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/eo/biciklo/n> ns1:Synonym <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/es/andar_en_bici/v/wn/motion> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/v/wn/motion> .
+
+<http://api.conceptnet.io/c/es/andar_en_moto/v/wn/motion> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/v/wn/motion> .
+
+<http://api.conceptnet.io/c/es/andar_en_motocicleta/v/wn/motion> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/v/wn/motion> .
+
+<http://api.conceptnet.io/c/es/automóvil/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/car/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/es/colchón/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/mattress> .
+
+<http://api.conceptnet.io/c/es/contenedor/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/es/mobiliario/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/es/motocicleta/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/es/patineta/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/scooter> .
+
+<http://api.conceptnet.io/c/et/jõulupuu/n> ns1:Synonym <http://api.conceptnet.io/c/en/christmas_tree> .
+
+<http://api.conceptnet.io/c/et/prügikott/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/garbage_bag> .
+
+<http://api.conceptnet.io/c/eu/altzari/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/eu/beribil/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/car/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/eu/edukiontzi/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/eu/koltxoi/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/mattress/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/eu/kontainer/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/eu/lastaira/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/mattress/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/eu/moto/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/eu/motor/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/eu/motozikleta/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/eu/ontziska/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/car/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/eu/patinete/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/scooter/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/fa/تشک/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/mattress/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/fa/جا/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/mattress> .
+
+<http://api.conceptnet.io/c/fa/سامان/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/fa/مبل/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/fa/موتورسیکلت/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/fa/وسایل/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/fi/ajaa_moottoripyörällä/v/wn/motion> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/v/wn/motion> .
+
+<http://api.conceptnet.io/c/fi/ajaa_moottoripyörää/v/wn/motion> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/v/wn/motion> .
+
+<http://api.conceptnet.io/c/fi/ajoneuvo/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/car/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/fi/fillari/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/fi/huonekalu/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/fi/huonekalut/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/fi/joulukuusi/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/christmas_tree/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/fi/kasinon_johto/n/wn/group> ns1:Synonym <http://api.conceptnet.io/c/en/house/n/wn/group> .
+
+<http://api.conceptnet.io/c/fi/katulamppu/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/street_lamp> .
+
+<http://api.conceptnet.io/c/fi/kontti/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/fi/moottoripyörä/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/fi/moottoripyöräillä/v/wn/motion> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/v/wn/motion> .
+
+<http://api.conceptnet.io/c/fi/patja/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/mattress/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/fi/potkulauta/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/scooter> .
+
+<http://api.conceptnet.io/c/fi/potkulauta/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/scooter/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/fi/pyörä/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/fi/roskapussi/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/garbage_bag> .
+
+<http://api.conceptnet.io/c/fi/roskasäkki/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/garbage_bag> .
+
+<http://api.conceptnet.io/c/fi/vespa/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/scooter> .
+
+<http://api.conceptnet.io/c/fr/arbre_de_noël> ns1:Synonym <http://api.conceptnet.io/c/en/christmas_tree> .
+
+<http://api.conceptnet.io/c/fr/arbre_de_noël/n> ns1:Synonym <http://api.conceptnet.io/c/en/christmas_tree> .
+
+<http://api.conceptnet.io/c/fr/arbre_de_noël/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/christmas_tree/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/fr/automobile/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/car/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/fr/bac/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/fr/bécane/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/fr/container/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/fr/coquille/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/mattress> .
+
+<http://api.conceptnet.io/c/fr/cycle/v/wn/motion> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/v/wn/motion> .
+
+<http://api.conceptnet.io/c/fr/lampadaire/n> ns1:Synonym <http://api.conceptnet.io/c/en/street_lamp> .
+
+<http://api.conceptnet.io/c/fr/matelas/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/mattress/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/fr/meuble/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/fr/moto/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/fr/moto/v/wn/motion> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/v/wn/motion> .
+
+<http://api.conceptnet.io/c/fr/motocycle/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/fr/motocyclette/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/fr/motocyclette/v/wn/motion> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/v/wn/motion> .
+
+<http://api.conceptnet.io/c/fr/passer/v/wn/motion> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/v/wn/motion> .
+
+<http://api.conceptnet.io/c/fr/poubelle/n> ns1:Synonym <http://api.conceptnet.io/c/en/trash_bin> .
+
+<http://api.conceptnet.io/c/fr/récipient/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/fr/sapin_de_noël/n> ns1:Synonym <http://api.conceptnet.io/c/en/christmas_tree> .
+
+<http://api.conceptnet.io/c/fr/sapin_de_noël/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/christmas_tree/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/fr/scooter/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/scooter/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/fr/trottinette/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/scooter/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/fr/voiture/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/car/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/fr/vélo/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/fr/vélo/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/fy/fyts/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/gd/bàic/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/gl/automóbil/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/car/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/gl/colchón/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/mattress> .
+
+<http://api.conceptnet.io/c/gl/colchón/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/mattress/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/gl/colector/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/gl/depósito/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/gl/moblaxe/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/gl/moble/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/gl/mobles/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/gl/moto/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/gl/motocicleta/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/gl/patinete/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/scooter> .
+
+<http://api.conceptnet.io/c/gl/recipiente/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/he/אופנוע/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/he/מזרון/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/mattress/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/he/מזרן/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/mattress/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/he/רהיט/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/hi/बिस्तर/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/mattress> .
+
+<http://api.conceptnet.io/c/hu/kerékpártúra/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/is/hjól/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/it/albero_di_natale/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/christmas_tree/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/it/arredamento/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/it/autovettura/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/car/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/it/bici/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/it/coltrice/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/mattress/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/it/contenitore/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/it/giaciglio/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/mattress/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/it/macchina/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/car/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/it/materassa/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/mattress/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/it/materassaio/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/mattress> .
+
+<http://api.conceptnet.io/c/it/materassino/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/mattress/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/it/materasso/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/mattress> .
+
+<http://api.conceptnet.io/c/it/materasso/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/mattress/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/it/mobile/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/it/mobilia/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/it/mobilio/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/it/monopattino/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/scooter/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/it/motociclo/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/it/recipiente/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ja/ごみ袋/n> ns1:Synonym <http://api.conceptnet.io/c/en/garbage_bag> .
+
+<http://api.conceptnet.io/c/ja/オートバイ/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/scooter> ;
+    ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle> .
+
+<http://api.conceptnet.io/c/ja/オートバイ/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ja/オートモビル/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/car/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ja/クリスマス_ツリー/n> ns1:Synonym <http://api.conceptnet.io/c/en/christmas_tree> .
+
+<http://api.conceptnet.io/c/ja/クリスマスツリー/n> ns1:Synonym <http://api.conceptnet.io/c/en/christmas_tree> .
+
+<http://api.conceptnet.io/c/ja/クリスマスツリー/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/christmas_tree/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ja/コンテナ/n> ns1:Synonym <http://api.conceptnet.io/c/en/container> .
+
+<http://api.conceptnet.io/c/ja/コンテナー/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ja/ゴミ袋/n> ns1:Synonym <http://api.conceptnet.io/c/en/garbage_bag> .
+
+<http://api.conceptnet.io/c/ja/ゴンドラ/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/car/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ja/スクーター/n> ns1:Synonym <http://api.conceptnet.io/c/en/scooter> .
+
+<http://api.conceptnet.io/c/ja/バイク/n> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle> .
+
+<http://api.conceptnet.io/c/ja/バイク/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ja/ファニチャー/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ja/ファーニチャー/n> ns1:Synonym <http://api.conceptnet.io/c/en/furniture> .
+
+<http://api.conceptnet.io/c/ja/ファーニチャー/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ja/ファーニチュア/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ja/マットレス/n> ns1:Synonym <http://api.conceptnet.io/c/en/mattress> .
+
+<http://api.conceptnet.io/c/ja/マットレス/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/mattress/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ja/モーターサイクル/n> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle> .
+
+<http://api.conceptnet.io/c/ja/モーターサイクル/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ja/モーターバイク/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ja/ライダーハウス/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/ja/二輪/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ja/什物/n> ns1:Synonym <http://api.conceptnet.io/c/en/furniture> .
+
+<http://api.conceptnet.io/c/ja/住み処/n> ns1:Synonym <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/ja/住宅/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/house/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ja/入れ物/n/jmdict/1> ns1:Synonym <http://api.conceptnet.io/c/en/container> .
+
+<http://api.conceptnet.io/c/ja/入れ物/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ja/入物/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ja/具足/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ja/匣> ns1:Synonym <http://api.conceptnet.io/c/en/car> .
+
+<http://api.conceptnet.io/c/ja/単車/n> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle> .
+
+<http://api.conceptnet.io/c/ja/単車/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ja/原付/n> ns1:Synonym <http://api.conceptnet.io/c/en/scooter> .
+
+<http://api.conceptnet.io/c/ja/原付き/n> ns1:Synonym <http://api.conceptnet.io/c/en/scooter> .
+
+<http://api.conceptnet.io/c/ja/器> ns1:Synonym <http://api.conceptnet.io/c/en/container> .
+
+<http://api.conceptnet.io/c/ja/器/n/jmdict/1> ns1:Synonym <http://api.conceptnet.io/c/en/container> .
+
+<http://api.conceptnet.io/c/ja/器/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ja/器物/n> ns1:Synonym <http://api.conceptnet.io/c/en/furniture> .
+
+<http://api.conceptnet.io/c/ja/塵袋/n> ns1:Synonym <http://api.conceptnet.io/c/en/garbage_bag> .
+
+<http://api.conceptnet.io/c/ja/家什/n> ns1:Synonym <http://api.conceptnet.io/c/en/furniture> .
+
+<http://api.conceptnet.io/c/ja/家什/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ja/家具/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ja/家屋/n> ns1:Synonym <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/ja/容れもの/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ja/容れ物/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ja/容器/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ja/容物/n/jmdict/1> ns1:Synonym <http://api.conceptnet.io/c/en/container> .
+
+<http://api.conceptnet.io/c/ja/建具/n> ns1:Synonym <http://api.conceptnet.io/c/en/furniture> .
+
+<http://api.conceptnet.io/c/ja/敷き布団/n> ns1:Synonym <http://api.conceptnet.io/c/en/mattress> .
+
+<http://api.conceptnet.io/c/ja/敷き蒲団/n> ns1:Synonym <http://api.conceptnet.io/c/en/mattress> .
+
+<http://api.conceptnet.io/c/ja/敷ぶとん/n> ns1:Synonym <http://api.conceptnet.io/c/en/mattress> .
+
+<http://api.conceptnet.io/c/ja/敷布団/n> ns1:Synonym <http://api.conceptnet.io/c/en/mattress> .
+
+<http://api.conceptnet.io/c/ja/敷蒲団/n> ns1:Synonym <http://api.conceptnet.io/c/en/mattress> .
+
+<http://api.conceptnet.io/c/ja/聖樹> ns1:Synonym <http://api.conceptnet.io/c/en/christmas_tree> .
+
+<http://api.conceptnet.io/c/ja/自動二輪車/n> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle> .
+
+<http://api.conceptnet.io/c/ja/自動二輪車/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ja/自動自転車/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ja/芥袋/n> ns1:Synonym <http://api.conceptnet.io/c/en/garbage_bag> .
+
+<http://api.conceptnet.io/c/ja/茵/n> ns1:Synonym <http://api.conceptnet.io/c/en/mattress> .
+
+<http://api.conceptnet.io/c/ja/蓐/n> ns1:Synonym <http://api.conceptnet.io/c/en/mattress> .
+
+<http://api.conceptnet.io/c/ja/褥/n> ns1:Synonym <http://api.conceptnet.io/c/en/mattress> .
+
+<http://api.conceptnet.io/c/ja/調度/n> ns1:Synonym <http://api.conceptnet.io/c/en/furniture> .
+
+<http://api.conceptnet.io/c/ja/調度品/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ja/身> ns1:Synonym <http://api.conceptnet.io/c/en/container> .
+
+<http://api.conceptnet.io/c/ja/車/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/car/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ja/車輌/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/car/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ja/鉄道車両/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/car/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/km/ម៉ូតូ/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/scooter> .
+
+<http://api.conceptnet.io/c/ko/매트리스> ns1:EtymologicallyDerivedFrom <http://api.conceptnet.io/c/en/mattress> .
+
+<http://api.conceptnet.io/c/ko/매트리스/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/mattress> .
+
+<http://api.conceptnet.io/c/mk/веспа/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/scooter> .
+
+<http://api.conceptnet.io/c/mn/гудас/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/mattress> .
+
+<http://api.conceptnet.io/c/ms/bermotosikal/v/wn/motion> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/v/wn/motion> .
+
+<http://api.conceptnet.io/c/ms/kasur/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/mattress/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ms/mattress/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/mattress/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ms/motosikal/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ms/otomobil/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/car/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ms/perabot/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ms/perabotan/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ms/sepeda_motor/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ms/skuter/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/scooter/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ms/tilam/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/mattress> .
+
+<http://api.conceptnet.io/c/ms/tilam/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/mattress/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/mul/🎄> ns1:SymbolOf <http://api.conceptnet.io/c/en/christmas_tree> .
+
+<http://api.conceptnet.io/c/mul/🚵> ns1:SymbolOf <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/mul/🛴> ns1:SymbolOf <http://api.conceptnet.io/c/en/scooter> .
+
+<http://api.conceptnet.io/c/mul/🛵> ns1:SymbolOf <http://api.conceptnet.io/c/en/scooter> .
+
+<http://api.conceptnet.io/c/ne/साइकल/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/nl/bagagedrager/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/nl/fietsstrook/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/nl/scooter> ns1:EtymologicallyDerivedFrom <http://api.conceptnet.io/c/en/scooter> .
+
+<http://api.conceptnet.io/c/nl/weesfiets/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/no/bil/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/car/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/no/gatelykt/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/street_lamp> .
+
+<http://api.conceptnet.io/c/no/mc/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/no/motorsykkel/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/no/scooter> ns1:EtymologicallyDerivedFrom <http://api.conceptnet.io/c/en/scooter> .
+
+<http://api.conceptnet.io/c/no/skuter> ns1:EtymologicallyDerivedFrom <http://api.conceptnet.io/c/en/scooter> .
+
+<http://api.conceptnet.io/c/no/sykkeltur/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/no/vogn/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/car/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ota/بستر/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/mattress> .
+
+<http://api.conceptnet.io/c/pl/boże_drzewko/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/christmas_tree/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/pl/choinka/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/christmas_tree/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/pl/drzewko/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/christmas_tree/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/pl/hulajnoga/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/scooter> .
+
+<http://api.conceptnet.io/c/pl/hulajnoga/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/scooter/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/pl/materac/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/mattress/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/pl/motocykl/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/pl/motor/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/pl/pontiak/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/car/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/pl/skuter> ns1:EtymologicallyDerivedFrom <http://api.conceptnet.io/c/en/scooter> .
+
+<http://api.conceptnet.io/c/pl/warszawa/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/car> .
+
+<http://api.conceptnet.io/c/pt/alfaia/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/pt/auto/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/car/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/pt/caixa/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/pt/candeeiro/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/street_lamp> .
+
+<http://api.conceptnet.io/c/pt/colchão/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/mattress/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/pt/contentores/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/pt/contêiner/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/pt/lampião/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/street_lamp> .
+
+<http://api.conceptnet.io/c/pt/mobília/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/pt/mota/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/pt/moto/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/pt/motocicleta/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/pt/motocicletas/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/pt/motos/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/pt/movéis/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/pt/pedalar/v> ns1:RelatedTo <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/pt/pinheiro_de_natal/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/christmas_tree> .
+
+<http://api.conceptnet.io/c/pt/vagão/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/car/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/pt/árvore_de_natal/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/christmas_tree/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/ro/pom_de_crăciun/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/christmas_tree> .
+
+<http://api.conceptnet.io/c/ru/матрас/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/mattress> .
+
+<http://api.conceptnet.io/c/ru/скутер> ns1:EtymologicallyDerivedFrom <http://api.conceptnet.io/c/en/scooter> .
+
+<http://api.conceptnet.io/c/sh/dušek/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/mattress> .
+
+<http://api.conceptnet.io/c/sh/madrac/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/mattress> .
+
+<http://api.conceptnet.io/c/sh/motocikl/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/motorcycle> .
+
+<http://api.conceptnet.io/c/sh/nameštaj/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/furniture> .
+
+<http://api.conceptnet.io/c/sh/namještaj/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/furniture> .
+
+<http://api.conceptnet.io/c/sh/pokućstvo/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/furniture> .
+
+<http://api.conceptnet.io/c/sh/skuter> ns1:EtymologicallyDerivedFrom <http://api.conceptnet.io/c/en/scooter> .
+
+<http://api.conceptnet.io/c/sh/skuter/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/scooter> .
+
+<http://api.conceptnet.io/c/sh/slamarica/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/mattress> .
+
+<http://api.conceptnet.io/c/sh/slamnica/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/mattress> .
+
+<http://api.conceptnet.io/c/sh/slamnjača/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/mattress> .
+
+<http://api.conceptnet.io/c/si/යතුරු_පැදි/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/motorcycle> .
+
+<http://api.conceptnet.io/c/sk/motorka/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/sq/dyshek/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/mattress/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/sq/enë/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/sq/mobilje/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/sq/motor/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/sq/motoçikletë/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/sq/orendi/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/sq/takëm/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/sv/cykel/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/sv/mc/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/motorcycle> .
+
+<http://api.conceptnet.io/c/te/మోటార్_సైకిల్> ns1:EtymologicallyDerivedFrom <http://api.conceptnet.io/c/en/motorcycle> .
+
+<http://api.conceptnet.io/c/th/ขับมอเตอร์ไซค์/v/wn/motion> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/v/wn/motion> .
+
+<http://api.conceptnet.io/c/th/ขับรถเครื่อง/v/wn/motion> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/v/wn/motion> .
+
+<http://api.conceptnet.io/c/th/ขึ้นมอเตอร์ไซค์/v/wn/motion> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/v/wn/motion> .
+
+<http://api.conceptnet.io/c/th/จยย/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/th/จักรยานยนต์/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/th/ต้นคริสต์มาส/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/christmas_tree/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/th/ที่นอน/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/mattress/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/th/ที่บรรจุของ/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/th/ที่ใส่ของ/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/container/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/th/นั่งมอเตอร์ไซค์/v/wn/motion> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/v/wn/motion> .
+
+<http://api.conceptnet.io/c/th/นั่งรถเครื่อง/v/wn/motion> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/v/wn/motion> .
+
+<http://api.conceptnet.io/c/th/มอเตอร์ไซค์/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/th/รถจักรยานยนต์/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/th/รถมอเตอร์ไซค์/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/th/รถเครื่อง/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/th/ราชสกุล/n/wn/group> ns1:Synonym <http://api.conceptnet.io/c/en/house/n/wn/group> .
+
+<http://api.conceptnet.io/c/th/สกู๊ตเตอร์> ns1:EtymologicallyDerivedFrom <http://api.conceptnet.io/c/en/scooter> .
+
+<http://api.conceptnet.io/c/th/สกู๊ตเตอร์/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/scooter/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/th/เครื่องเรือน/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/th/เบาะที่นอน/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/mattress/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/th/เฟอร์/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/furniture/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/th/แมงกาไซค์/n/wn/artifact> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/vo/saikul/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/xcl/անկողին/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/mattress> .
+
+<http://api.conceptnet.io/c/zh/垃圾袋/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/garbage_bag> .
+
+<http://api.conceptnet.io/c/zh/塑膠車> ns1:Synonym <http://api.conceptnet.io/c/en/scooter> .
+
+<http://api.conceptnet.io/c/zh/存車處/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/scooter> .
+
+<http://api.conceptnet.io/c/zh/小電驢/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/scooter> .
+
+<http://api.conceptnet.io/c/zh/摩托車> ns1:Synonym <http://api.conceptnet.io/c/en/motorcycle> .
+
+<http://api.conceptnet.io/c/zh/机车> ns1:Synonym <http://api.conceptnet.io/c/en/scooter> .
+
+<http://api.conceptnet.io/c/zh/機車/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/scooter> .
+
+<http://api.conceptnet.io/c/zh/聖誕樹> ns1:Synonym <http://api.conceptnet.io/c/en/christmas_tree> .
+
+<http://api.conceptnet.io/c/zh/自行车> ns1:Synonym <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/zh/茵> ns1:Synonym <http://api.conceptnet.io/c/en/mattress> .
+
+<http://api.conceptnet.io/c/zh/草薦/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/mattress> .
+
+<http://api.conceptnet.io/c/zh/路灯> ns1:Synonym <http://api.conceptnet.io/c/en/street_lamp> .
+
+<http://api.conceptnet.io/c/zh/路燈> ns1:Synonym <http://api.conceptnet.io/c/en/street_lamp> .
+
+<http://api.conceptnet.io/c/zh/踏板摩托车> ns1:Synonym <http://api.conceptnet.io/c/en/scooter> .
+
+<http://api.conceptnet.io/c/zh/踏板車> ns1:Synonym <http://api.conceptnet.io/c/en/scooter> .
+
+<http://api.conceptnet.io/c/zh/踏板车> ns1:Synonym <http://api.conceptnet.io/c/en/scooter> .
+
+<http://api.conceptnet.io/c/zh/速可达> ns1:Synonym <http://api.conceptnet.io/c/en/scooter> .
+
+<http://api.conceptnet.io/c/zh/速可達> ns1:Synonym <http://api.conceptnet.io/c/en/scooter> .
+
+<http://api.conceptnet.io/c/zh/電動車/n> ns1:RelatedTo <http://api.conceptnet.io/c/en/scooter> .
+
+<http://api.conceptnet.io/c/en/bathroom> ns1:AtLocation <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/door> ns1:RelatedTo <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/driving> ns1:HasPrerequisite <http://api.conceptnet.io/c/en/car> .
+
+<http://api.conceptnet.io/c/en/engine> ns1:PartOf <http://api.conceptnet.io/c/en/car> .
+
+<http://api.conceptnet.io/c/en/family> ns1:AtLocation <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/garage> ns1:AtLocation <http://api.conceptnet.io/c/en/car>,
+        <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/garbage_bag/n> ns1:HasContext <http://api.conceptnet.io/c/en/north_american> ;
+    ns1:RelatedTo <http://api.conceptnet.io/c/en/bag>,
+        <http://api.conceptnet.io/c/en/disposal>,
+        <http://api.conceptnet.io/c/en/household>,
+        <http://api.conceptnet.io/c/en/plastic>,
+        <http://api.conceptnet.io/c/en/waste> ;
+    ns1:Synonym <http://api.conceptnet.io/c/da/affaldspose>,
+        <http://api.conceptnet.io/c/de/müllbeutel>,
+        <http://api.conceptnet.io/c/en/black_bag>,
+        <http://api.conceptnet.io/c/en/rubbish_bag>,
+        <http://api.conceptnet.io/c/en/trash_bag>,
+        <http://api.conceptnet.io/c/et/prügikott>,
+        <http://api.conceptnet.io/c/fi/roskapussi>,
+        <http://api.conceptnet.io/c/fi/roskasäkki>,
+        <http://api.conceptnet.io/c/fr/sac_poubelle>,
+        <http://api.conceptnet.io/c/fr/sac_à_ordures>,
+        <http://api.conceptnet.io/c/ja/ごみ袋>,
+        <http://api.conceptnet.io/c/no/søppelpose>,
+        <http://api.conceptnet.io/c/ru/мешок_для_мусора>,
+        <http://api.conceptnet.io/c/ru/мусорный_мешок>,
+        <http://api.conceptnet.io/c/zh/垃圾袋> .
+
+<http://api.conceptnet.io/c/en/home> ns1:RelatedTo <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/lamp> ns1:AtLocation <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/living_room> ns1:PartOf <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/ornament> ns1:RelatedTo <http://api.conceptnet.io/c/en/christmas_tree> .
+
+<http://api.conceptnet.io/c/en/road> ns1:RelatedTo <http://api.conceptnet.io/c/en/car> .
+
+<http://api.conceptnet.io/c/en/room> ns1:RelatedTo <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/seat> ns1:AtLocation <http://api.conceptnet.io/c/en/bike> ;
+    ns1:RelatedTo <http://api.conceptnet.io/c/en/car> .
+
+<http://api.conceptnet.io/c/en/wheels> ns1:PartOf <http://api.conceptnet.io/c/en/car> .
+
+<http://api.conceptnet.io/c/en/wood> ns1:RelatedTo <http://api.conceptnet.io/c/en/furniture> .
+
+<http://api.conceptnet.io/c/fr/sapin_de_noël> ns1:Synonym <http://api.conceptnet.io/c/en/christmas_tree> .
+
+<http://api.conceptnet.io/c/zh/圣诞树> ns1:Synonym <http://api.conceptnet.io/c/en/christmas_tree> .
+
+<http://api.conceptnet.io/c/zh/床垫> ns1:Synonym <http://api.conceptnet.io/c/en/mattress> .
+
+<http://api.conceptnet.io/c/en/automobile> ns1:RelatedTo <http://api.conceptnet.io/c/en/car> .
+
+<http://api.conceptnet.io/c/en/bed> ns1:AtLocation <http://api.conceptnet.io/c/en/house> ;
+    ns1:IsA <http://api.conceptnet.io/c/en/furniture> ;
+    ns1:RelatedTo <http://api.conceptnet.io/c/en/furniture>,
+        <http://api.conceptnet.io/c/en/mattress> .
+
+<http://api.conceptnet.io/c/en/bike/n/wikt/en_1> ns1:Synonym <http://api.conceptnet.io/c/ca/bici>,
+        <http://api.conceptnet.io/c/cy/beic>,
+        <http://api.conceptnet.io/c/de/fahrrad>,
+        <http://api.conceptnet.io/c/de/rad>,
+        <http://api.conceptnet.io/c/fi/polkupyörä>,
+        <http://api.conceptnet.io/c/fi/pyörä>,
+        <http://api.conceptnet.io/c/fr/vélo>,
+        <http://api.conceptnet.io/c/fy/fyts>,
+        <http://api.conceptnet.io/c/gd/bàic>,
+        <http://api.conceptnet.io/c/hu/bicó>,
+        <http://api.conceptnet.io/c/hy/հեծո>,
+        <http://api.conceptnet.io/c/it/bici>,
+        <http://api.conceptnet.io/c/ja/チャリンコ>,
+        <http://api.conceptnet.io/c/ka/ველოსიპედი>,
+        <http://api.conceptnet.io/c/ms/sepeda>,
+        <http://api.conceptnet.io/c/nl/velo>,
+        <http://api.conceptnet.io/c/pl/rower>,
+        <http://api.conceptnet.io/c/ru/велик>,
+        <http://api.conceptnet.io/c/sl/kolo>,
+        <http://api.conceptnet.io/c/vi/xe_đạp>,
+        <http://api.conceptnet.io/c/yi/וועלאסיפעד>,
+        <http://api.conceptnet.io/c/yi/ראווער> .
+
+<http://api.conceptnet.io/c/en/windows> ns1:AtLocation <http://api.conceptnet.io/c/en/house> .
+
+<http://api.conceptnet.io/c/en/christmas_tree/n> ns1:ExternalURL <http://api.conceptnet.iohttp://sw.opencyc.org/2012/05/10/concept/en/ChristmasTree>,
+        <http://api.conceptnet.iohttp://sw.opencyc.org/2012/05/10/concept/en/ChristmasTree_Well> ;
+    ns1:HasContext <http://api.conceptnet.io/c/en/bodybuilding>,
+        <http://api.conceptnet.io/c/en/jargon>,
+        <http://api.conceptnet.io/c/en/oil_industry> ;
+    ns1:IsA <http://api.conceptnet.io/c/en/physical_system/n>,
+        <http://api.conceptnet.io/c/en/system_of_devices/n> ;
+    ns1:RelatedTo <http://api.conceptnet.io/c/en/alert>,
+        <http://api.conceptnet.io/c/en/angel>,
+        <http://api.conceptnet.io/c/en/area>,
+        <http://api.conceptnet.io/c/en/automobile>,
+        <http://api.conceptnet.io/c/en/christmas>,
+        <http://api.conceptnet.io/c/en/cold_war>,
+        <http://api.conceptnet.io/c/en/conifer>,
+        <http://api.conceptnet.io/c/en/muscle>,
+        <http://api.conceptnet.io/c/en/ornament>,
+        <http://api.conceptnet.io/c/en/race>,
+        <http://api.conceptnet.io/c/en/star>,
+        <http://api.conceptnet.io/c/en/traffic_signal>,
+        <http://api.conceptnet.io/c/en/united_states> ;
+    ns1:Synonym <http://api.conceptnet.io/c/be/калядная_ёлка>,
+        <http://api.conceptnet.io/c/bg/елха>,
+        <http://api.conceptnet.io/c/cs/vánoční_stromeček>,
+        <http://api.conceptnet.io/c/eo/kristnaska_arbo>,
+        <http://api.conceptnet.io/c/et/jõulukuusk>,
+        <http://api.conceptnet.io/c/et/jõulupuu>,
+        <http://api.conceptnet.io/c/fi/joulukuusi>,
+        <http://api.conceptnet.io/c/fi/joulupuu>,
+        <http://api.conceptnet.io/c/fr/sapin_de_noël>,
+        <http://api.conceptnet.io/c/fy/krystbeam>,
+        <http://api.conceptnet.io/c/ht/abdenwel>,
+        <http://api.conceptnet.io/c/is/jólatré>,
+        <http://api.conceptnet.io/c/it/albero_di_natale>,
+        <http://api.conceptnet.io/c/ka/საშობაო_ნაძვის_ხე>,
+        <http://api.conceptnet.io/c/kl/orpik>,
+        <http://api.conceptnet.io/c/kl/orpiliaq>,
+        <http://api.conceptnet.io/c/lb/chrëschtbeemchen>,
+        <http://api.conceptnet.io/c/ms/pokok_krismas>,
+        <http://api.conceptnet.io/c/no/juletre>,
+        <http://api.conceptnet.io/c/nv/chʼóyáázh_naashchʼąąʼígíí>,
+        <http://api.conceptnet.io/c/pl/choinka>,
+        <http://api.conceptnet.io/c/pt/pinheiro_de_natal>,
+        <http://api.conceptnet.io/c/pt/árvore_de_natal>,
+        <http://api.conceptnet.io/c/ro/pom_de_crăciun>,
+        <http://api.conceptnet.io/c/ru/новогодняя_ёлка>,
+        <http://api.conceptnet.io/c/ru/ёлка>,
+        <http://api.conceptnet.io/c/sl/božično_drevo>,
+        <http://api.conceptnet.io/c/zh/圣诞树>,
+        <http://api.conceptnet.io/c/zh/耶诞树> .
+
+<http://api.conceptnet.io/c/en/trash_bin> ns1:ExternalURL <http://api.conceptnet.iohttp://en.wiktionary.org/wiki/trash_bin> .
+
+<http://api.conceptnet.io/c/en/scooter/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/wheeled_vehicle/n/wn/artifact> ;
+    ns1:Synonym <http://api.conceptnet.io/c/en/iceboat/n/wn/artifact>,
+        <http://api.conceptnet.io/c/en/motor_scooter/n/wn/artifact>,
+        <http://api.conceptnet.io/c/en/water_scooter/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/christmas_tree/n/wn/artifact> ns1:ExternalURL <http://api.conceptnet.iohttp://wordnet-rdf.princeton.edu/wn31/103030309-n> ;
+    ns1:IsA <http://api.conceptnet.io/c/en/decoration/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/person> ns1:CapableOf <http://api.conceptnet.io/c/en/attempt_suicide>,
+        <http://api.conceptnet.io/c/en/board_plane>,
+        <http://api.conceptnet.io/c/en/butter_bread>,
+        <http://api.conceptnet.io/c/en/buy_car>,
+        <http://api.conceptnet.io/c/en/buy_food>,
+        <http://api.conceptnet.io/c/en/captain_ship>,
+        <http://api.conceptnet.io/c/en/catch_cold>,
+        <http://api.conceptnet.io/c/en/deal_drugs>,
+        <http://api.conceptnet.io/c/en/drink_milk>,
+        <http://api.conceptnet.io/c/en/enter_house>,
+        <http://api.conceptnet.io/c/en/enter_store>,
+        <http://api.conceptnet.io/c/en/fear_death>,
+        <http://api.conceptnet.io/c/en/hear_music_on_radio>,
+        <http://api.conceptnet.io/c/en/iron_pants>,
+        <http://api.conceptnet.io/c/en/iron_shirt>,
+        <http://api.conceptnet.io/c/en/laugh_at_joke>,
+        <http://api.conceptnet.io/c/en/leave_place>,
+        <http://api.conceptnet.io/c/en/mail_letter_to_another_person>,
+        <http://api.conceptnet.io/c/en/plan_vacation>,
+        <http://api.conceptnet.io/c/en/plant_tree>,
+        <http://api.conceptnet.io/c/en/reply_to_e_mail>,
+        <http://api.conceptnet.io/c/en/reply_to_question>,
+        <http://api.conceptnet.io/c/en/shoulder_burden>,
+        <http://api.conceptnet.io/c/en/smoke_cigar>,
+        <http://api.conceptnet.io/c/en/surprise_another_person>,
+        <http://api.conceptnet.io/c/en/taste_food>,
+        <http://api.conceptnet.io/c/en/thank_another_person>,
+        <http://api.conceptnet.io/c/en/thank_god>,
+        <http://api.conceptnet.io/c/en/trip_another_person>,
+        <http://api.conceptnet.io/c/en/voice_opinion>,
+        <http://api.conceptnet.io/c/en/walk_dog>,
+        <http://api.conceptnet.io/c/en/wave_goodbye>,
+        <http://api.conceptnet.io/c/en/wave_to_friend>,
+        <http://api.conceptnet.io/c/en/wind_clock>,
+        <http://api.conceptnet.io/c/en/write_letter_to_friend> ;
+    ns1:Desires <http://api.conceptnet.io/c/en/accomplish_goals>,
+        <http://api.conceptnet.io/c/en/acknowledgment>,
+        <http://api.conceptnet.io/c/en/children_to_happy>,
+        <http://api.conceptnet.io/c/en/clean_air_to_breath>,
+        <http://api.conceptnet.io/c/en/communication>,
+        <http://api.conceptnet.io/c/en/compliments>,
+        <http://api.conceptnet.io/c/en/feel_important>,
+        <http://api.conceptnet.io/c/en/get_laid>,
+        <http://api.conceptnet.io/c/en/good_looking>,
+        <http://api.conceptnet.io/c/en/good_things_in_life>,
+        <http://api.conceptnet.io/c/en/knowledgeable>,
+        <http://api.conceptnet.io/c/en/live_long_and_healthy_life>,
+        <http://api.conceptnet.io/c/en/many_good_friends>,
+        <http://api.conceptnet.io/c/en/more_information>,
+        <http://api.conceptnet.io/c/en/more_time_off>,
+        <http://api.conceptnet.io/c/en/other_people_to_respect>,
+        <http://api.conceptnet.io/c/en/own_house>,
+        <http://api.conceptnet.io/c/en/praise>,
+        <http://api.conceptnet.io/c/en/receive_gifts>,
+        <http://api.conceptnet.io/c/en/relaxation>,
+        <http://api.conceptnet.io/c/en/talk_about_themselves>,
+        <http://api.conceptnet.io/c/en/time>,
+        <http://api.conceptnet.io/c/en/understand_themselves>,
+        <http://api.conceptnet.io/c/en/understand_world> ;
+    ns1:NotDesires <http://api.conceptnet.io/c/en/abuse>,
+        <http://api.conceptnet.io/c/en/boring_job>,
+        <http://api.conceptnet.io/c/en/broken_finger>,
+        <http://api.conceptnet.io/c/en/burn>,
+        <http://api.conceptnet.io/c/en/computer_to_crash>,
+        <http://api.conceptnet.io/c/en/die_alone>,
+        <http://api.conceptnet.io/c/en/diseased>,
+        <http://api.conceptnet.io/c/en/do_job_over>,
+        <http://api.conceptnet.io/c/en/fall_out_of_love>,
+        <http://api.conceptnet.io/c/en/fearful>,
+        <http://api.conceptnet.io/c/en/hangnail>,
+        <http://api.conceptnet.io/c/en/have_no_home>,
+        <http://api.conceptnet.io/c/en/have_to_go_to_war>,
+        <http://api.conceptnet.io/c/en/hear_bad_news>,
+        <http://api.conceptnet.io/c/en/in_prison>,
+        <http://api.conceptnet.io/c/en/in_traffic_jam>,
+        <http://api.conceptnet.io/c/en/loose_job>,
+        <http://api.conceptnet.io/c/en/lose_friends>,
+        <http://api.conceptnet.io/c/en/make_mistakes>,
+        <http://api.conceptnet.io/c/en/open_sores>,
+        <http://api.conceptnet.io/c/en/restricted>,
+        <http://api.conceptnet.io/c/en/schizophrenia>,
+        <http://api.conceptnet.io/c/en/shameful>,
+        <http://api.conceptnet.io/c/en/unpleasant_things> ;
+    ns1:PartOf <http://api.conceptnet.io/c/en/society> ;
+    ns1:RelatedTo <http://api.conceptnet.io/c/en/human>,
+        <http://api.conceptnet.io/c/en/individual>,
+        <http://api.conceptnet.io/c/en/man> .
+
+<http://api.conceptnet.io/c/en/scooter/n> ns1:IsA <http://api.conceptnet.io/c/en/user_guided_device/n> ;
+    ns1:RelatedTo <http://api.conceptnet.io/c/en/duck>,
+        <http://api.conceptnet.io/c/en/ice>,
+        <http://api.conceptnet.io/c/en/ice_yacht>,
+        <http://api.conceptnet.io/c/en/mobility_scooter>,
+        <http://api.conceptnet.io/c/en/motorscooter>,
+        <http://api.conceptnet.io/c/en/runner>,
+        <http://api.conceptnet.io/c/en/scoter>,
+        <http://api.conceptnet.io/c/en/step_through> ;
+    ns1:Synonym <http://api.conceptnet.io/c/ca/patinet>,
+        <http://api.conceptnet.io/c/da/løbehjul>,
+        <http://api.conceptnet.io/c/el/πατινι>,
+        <http://api.conceptnet.io/c/es/patineta>,
+        <http://api.conceptnet.io/c/es/patín_del_diablo>,
+        <http://api.conceptnet.io/c/fr/trottinette>,
+        <http://api.conceptnet.io/c/gl/patinete>,
+        <http://api.conceptnet.io/c/hy/ինքնագլոր>,
+        <http://api.conceptnet.io/c/it/monopattino>,
+        <http://api.conceptnet.io/c/ja/スクーター>,
+        <http://api.conceptnet.io/c/ka/თვითგორია>,
+        <http://api.conceptnet.io/c/ms/skuter>,
+        <http://api.conceptnet.io/c/nl/step>,
+        <http://api.conceptnet.io/c/no/sparksykkel>,
+        <http://api.conceptnet.io/c/pl/hulajnoga>,
+        <http://api.conceptnet.io/c/pt/patinete>,
+        <http://api.conceptnet.io/c/sh/trotinet>,
+        <http://api.conceptnet.io/c/sv/sparkcykel>,
+        <http://api.conceptnet.io/c/zh/滑板车>,
+        <http://api.conceptnet.io/c/zh/滑行車> .
+
+<http://api.conceptnet.io/c/en/street_lamp> ns1:CapableOf <http://api.conceptnet.io/c/en/light_way> ;
+    ns1:DerivedFrom <http://api.conceptnet.io/c/en/lamp>,
+        <http://api.conceptnet.io/c/en/street> ;
+    ns1:ExternalURL <http://api.conceptnet.iohttp://en.wiktionary.org/wiki/street-lamp>,
+        <http://api.conceptnet.iohttp://en.wiktionary.org/wiki/street_lamp> .
+
+<http://api.conceptnet.io/c/en/motorcycle> ns1:AtLocation <http://api.conceptnet.io/c/en/garage> ;
+    ns1:HasA <http://api.conceptnet.io/c/en/two_wheels> ;
+    ns1:HasProperty <http://api.conceptnet.io/c/en/two_wheeled_vehicle> ;
+    ns1:IsA <http://api.conceptnet.io/c/en/fatsret_than_scooter> .
+
+<http://api.conceptnet.io/c/en/motorcycle/v/wn/motion> ns1:Entails <http://api.conceptnet.io/c/en/kick/v/wn/contact> ;
+    ns1:MannerOf <http://api.conceptnet.io/c/en/ride/v/wn/motion> .
+
+<http://api.conceptnet.io/c/en/garbage_bag> ns1:DerivedFrom <http://api.conceptnet.io/c/en/garbage/n> ;
+    ns1:ExternalURL <http://api.conceptnet.iohttp://en.wiktionary.org/wiki/garbage_bag> ;
+    ns1:IsA <http://api.conceptnet.io/c/en/bag> ;
+    ns1:UsedFor <http://api.conceptnet.io/c/en/containing_garbage> .
+
+<http://api.conceptnet.io/c/en/furniture> ns1:AtLocation <http://api.conceptnet.io/c/en/building>,
+        <http://api.conceptnet.io/c/en/friend's_house>,
+        <http://api.conceptnet.io/c/en/house>,
+        <http://api.conceptnet.io/c/en/loft>,
+        <http://api.conceptnet.io/c/en/room>,
+        <http://api.conceptnet.io/c/en/rug>,
+        <http://api.conceptnet.io/c/en/store> ;
+    ns1:MadeOf <http://api.conceptnet.io/c/en/wood> .
+
+<http://api.conceptnet.io/c/en/christmas_tree> ns1:ExternalURL <http://api.conceptnet.iohttp://wikidata.dbpedia.org/resource/Q47128> ;
+    ns1:IsA <http://api.conceptnet.io/c/en/cultural_icon> ;
+    ns1:Synonym <http://api.conceptnet.io/c/sv/julgran> .
+
+<http://api.conceptnet.io/c/en/car> ns1:AtLocation <http://api.conceptnet.io/c/en/car_dealership>,
+        <http://api.conceptnet.io/c/en/car_show>,
+        <http://api.conceptnet.io/c/en/city>,
+        <http://api.conceptnet.io/c/en/freeway>,
+        <http://api.conceptnet.io/c/en/neighbor's_house>,
+        <http://api.conceptnet.io/c/en/parking_lot>,
+        <http://api.conceptnet.io/c/en/race_track>,
+        <http://api.conceptnet.io/c/en/repair_shop>,
+        <http://api.conceptnet.io/c/en/road> ;
+    ns1:CapableOf <http://api.conceptnet.io/c/en/come_up_drive>,
+        <http://api.conceptnet.io/c/en/cost_lot_of_money>,
+        <http://api.conceptnet.io/c/en/crash>,
+        <http://api.conceptnet.io/c/en/enter_garage>,
+        <http://api.conceptnet.io/c/en/go_fast>,
+        <http://api.conceptnet.io/c/en/pass_another_car>,
+        <http://api.conceptnet.io/c/en/pass_other_car>,
+        <http://api.conceptnet.io/c/en/roll_over>,
+        <http://api.conceptnet.io/c/en/slow_down> ;
+    ns1:DefinedAs <http://api.conceptnet.io/c/en/product_of_factory> ;
+    ns1:HasA <http://api.conceptnet.io/c/en/engine>,
+        <http://api.conceptnet.io/c/en/seat>,
+        <http://api.conceptnet.io/c/en/seats>,
+        <http://api.conceptnet.io/c/en/windows> ;
+    ns1:HasProperty <http://api.conceptnet.io/c/en/heavy>,
+        <http://api.conceptnet.io/c/en/red> ;
+    ns1:IsA <http://api.conceptnet.io/c/en/motor_vehicle>,
+        <http://api.conceptnet.io/c/en/vehicle> ;
+    ns1:RelatedTo <http://api.conceptnet.io/c/en/auto>,
+        <http://api.conceptnet.io/c/en/automobile>,
+        <http://api.conceptnet.io/c/en/driving>,
+        <http://api.conceptnet.io/c/en/four>,
+        <http://api.conceptnet.io/c/en/transportation>,
+        <http://api.conceptnet.io/c/en/vehicle>,
+        <http://api.conceptnet.io/c/en/wheels> ;
+    ns1:UsedFor <http://api.conceptnet.io/c/en/fun> .
+
+<http://api.conceptnet.io/c/en/mattress/n/wn/artifact> ns1:ExternalURL <http://api.conceptnet.iohttp://wordnet-rdf.princeton.edu/wn31/103736655-n> ;
+    ns1:IsA <http://api.conceptnet.io/c/en/pad/n/wn/artifact> ;
+    ns1:PartOf <http://api.conceptnet.io/c/en/bed/n/wn/artifact> .
+
+<http://api.conceptnet.io/c/en/container> ns1:AtLocation <http://api.conceptnet.io/c/en/cupboard>,
+        <http://api.conceptnet.io/c/en/pantry>,
+        <http://api.conceptnet.io/c/en/refrigerator> ;
+    ns1:UsedFor <http://api.conceptnet.io/c/en/holding> .
+
+<http://api.conceptnet.io/c/en/mattress> ns1:AtLocation <http://api.conceptnet.io/c/en/house> ;
+    ns1:ExternalURL <http://api.conceptnet.iohttp://dbpedia.org/resource/Mattress> ;
+    ns1:PartOf <http://api.conceptnet.io/c/en/bed> ;
+    ns1:RelatedTo <http://api.conceptnet.io/c/en/bed>,
+        <http://api.conceptnet.io/c/en/sleeping> .
+
+<http://api.conceptnet.io/c/en/scooter> ns1:RelatedTo <http://api.conceptnet.io/c/en/bike> .
+
+<http://api.conceptnet.io/c/en/motorcycle/n/wn/artifact> ns1:IsA <http://api.conceptnet.io/c/en/motor_vehicle/n/wn/artifact> ;
+    ns1:UsedFor <http://api.conceptnet.io/c/en/ride/v/wn/motion>,
+        <http://api.conceptnet.io/c/en/rush/v/wn/motion> .
+
+<http://api.conceptnet.io/c/en/bike> ns1:AtLocation <http://api.conceptnet.io/c/en/street> ;
+    ns1:CapableOf <http://api.conceptnet.io/c/en/have_gears> ;
+    ns1:HasA <http://api.conceptnet.io/c/en/2_tires>,
+        <http://api.conceptnet.io/c/en/two_wheels> ;
+    ns1:UsedFor <http://api.conceptnet.io/c/en/riding>,
+        <http://api.conceptnet.io/c/en/transport> .
+
+<http://api.conceptnet.io/c/en/furniture/n/wn/artifact> ns1:AtLocation <http://api.conceptnet.io/c/en/building/n/wn/artifact> ;
+    ns1:IsA <http://api.conceptnet.io/c/en/furnishings/n/wn/artifact> ;
+    ns1:UsedFor <http://api.conceptnet.io/c/en/furnish/v/wn/possession> .
+
+<http://api.conceptnet.io/c/en/house> ns1:HasA <http://api.conceptnet.io/c/en/basement>,
+        <http://api.conceptnet.io/c/en/bathroom>,
+        <http://api.conceptnet.io/c/en/door>,
+        <http://api.conceptnet.io/c/en/doors>,
+        <http://api.conceptnet.io/c/en/kitchen>,
+        <http://api.conceptnet.io/c/en/living_room>,
+        <http://api.conceptnet.io/c/en/roof>,
+        <http://api.conceptnet.io/c/en/rooms>,
+        <http://api.conceptnet.io/c/en/windows>,
+        <http://api.conceptnet.io/c/en/yard> ;
+    ns1:IsA <http://api.conceptnet.io/c/en/place_and_thing>,
+        <http://api.conceptnet.io/c/en/shelter> ;
+    ns1:RelatedTo <http://api.conceptnet.io/c/en/abode>,
+        <http://api.conceptnet.io/c/en/building>,
+        <http://api.conceptnet.io/c/en/dwelling>,
+        <http://api.conceptnet.io/c/en/family>,
+        <http://api.conceptnet.io/c/en/home>,
+        <http://api.conceptnet.io/c/en/home_building>,
+        <http://api.conceptnet.io/c/en/live>,
+        <http://api.conceptnet.io/c/en/living>,
+        <http://api.conceptnet.io/c/en/living_place>,
+        <http://api.conceptnet.io/c/en/place>,
+        <http://api.conceptnet.io/c/en/residence>,
+        <http://api.conceptnet.io/c/en/roof>,
+        <http://api.conceptnet.io/c/en/walls>,
+        <http://api.conceptnet.io/c/en/windows> ;
+    ns1:UsedFor <http://api.conceptnet.io/c/en/protection_from_elements>,
+        <http://api.conceptnet.io/c/en/shelter> .
+
