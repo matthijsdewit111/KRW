@@ -14,14 +14,14 @@ for entity in entity_examples:
     print(entity)
     obj = requests.get('http://api.conceptnet.io/relatedness?node1=/c/en/{}&node2=/c/en/find_inside'.format(entity)).json()
     print("inside:", obj['value'])
-    obj = requests.get('http://api.conceptnet.io/relatedness?node1=/c/en/{}&node2=/c/en/find_outside'.format(entity)).json()
-    print("outside:", obj['value'])
-# find how much two entities are related (in this case determine how likely the entity is to be found inside or outside)
-# for entity in entity_examples:
-#     print(entity)
-#     obj = requests.get(
-#         'http://api.conceptnet.io/relatedness?node1=/c/en/{}&node2=/c/en/find_inside'.format(entity)).json()
-#     print("inside:", obj['value'])
-#     obj = requests.get(
-#         'http://api.conceptnet.io/relatedness?node1=/c/en/{}&node2=/c/en/find_outside'.format(entity)).json()
-#     print("outside:", obj['value'])
+    obj = requests.get('http://api.conceptnet.io/relatedness?node1=/c/en/{}&node2=/c/en/inside'.format(entity)).json()
+    print("inside2:", obj['value'])
+    obj = requests.get('http://api.conceptnet.io/relatedness?node1=/c/en/{}&node2=/c/en/garbage'.format(entity)).json()
+    print("garbage:", obj['value'])
+    obj = requests.get('http://api.conceptnet.io/relatedness?node1=/c/en/{}&node2=/c/en/trash'.format(entity)).json()
+    print("trash:", obj['value'])
+
+obj = requests.get('http://api.conceptnet.io/query?rel=/r/Synonym&node=/c/en/{}&other=/c/en'.format("garbage_bin")).json()
+print(obj)
+for edge in obj['edges']:
+    print(edge['@id'])
