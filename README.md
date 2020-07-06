@@ -12,6 +12,6 @@ Run `experiment_conceptnet.py` to get an evaluation of our method to classify it
 
 ## Further information
 
-`triplestore.py` contains interface to commincate with GraphDB api/repo
-`conceptnet_api.py` contains interface to commicate with conceptnet api
-`reset_triplestore.py` clears some data from GraphDB triplestore
+`triplestore.py` contains interface to commincate with GraphDB api/repo  
+`conceptnet_api.py` contains interface to commicate with conceptnet api  
+`reset_triplestore.py` clears some data from GraphDB triplestore  
