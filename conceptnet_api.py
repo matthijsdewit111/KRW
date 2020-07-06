@@ -7,7 +7,12 @@ class ConceptNetApi:
 
     @staticmethod
     def get_related_concepts(concept):
-        related_terms = requests.get('{}related{}'.format(ConceptNetApi.cn, concept), params={"filter": "/c/en"}).json()['related']
+        response = requests.get('{}related{}'.format(ConceptNetApi.cn, concept), params={"filter": "/c/en"})
+        if not response.ok:
+            print(response.content)
+            return
+        
+        related_terms = response.json()['related']
         ids = []
         for item in related_terms:
             ids.append(ConceptNetApi.cn[item['@id'][1:]])
@@ -15,7 +20,12 @@ class ConceptNetApi:
 
     @staticmethod
     def get_relatedness(concept1, concept2):
-        relatedness = requests.get('{}relatedness'.format(ConceptNetApi.cn), params={"node1": concept1, "node2": concept2}).json()['value']
+        response = requests.get('{}relatedness'.format(ConceptNetApi.cn), params={"node1": concept1, "node2": concept2})
+        if not response.ok:
+            print(response.content)
+            return
+        
+        relatedness = response.json()['value']
         return relatedness
 
 if __name__ == "__main__":
