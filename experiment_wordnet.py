@@ -1,31 +1,37 @@
 import pandas as pd
+from nltk.corpus import wordnet
 from rdflib import Graph, Literal, Namespace
 
-from conceptnet_api import ConceptNetApi
 from triplestore import TripleStore
-
-cen = Namespace('/c/en/')
 
 
 def calculate_trash_score(obj):
+    if obj == "garbage_bag":
+        obj = "bag"
+    if obj == "plastic_bottle":
+        obj = "bottle"
+    if obj == "broken_glass":
+        obj = "glass"
+    obj_wn = wordnet.synset(obj + '.n.01')
     # the higher the relatedness, the more likely object is trash
-    find_inside_score = ConceptNetApi.get_relatedness(cen[obj], cen['find_inside'])
-    inside_score = ConceptNetApi.get_relatedness(cen[obj], cen['inside'])
-    trash_score = ConceptNetApi.get_relatedness(cen[obj], cen['trash'])
-    garbage_score = ConceptNetApi.get_relatedness(cen[obj], cen['garbage'])
-    total_pos_corr = find_inside_score + inside_score + trash_score + garbage_score
+    inside = wordnet.synset('inside.n.01')
+    trash = wordnet.synset('trash.n.01')
+    inside_score = obj_wn.wup_similarity(inside)
+    trash_score = obj_wn.wup_similarity(trash)
+    total_pos_corr = inside_score + trash_score
 
     # the higher the relatedness, the less likely object is trash
-    moving_score = ConceptNetApi.get_relatedness(cen[obj], cen['moving'])
-    outside_score = ConceptNetApi.get_relatedness(cen[obj], cen['outside'])
-    total_neg_corr = moving_score + outside_score
+    outside = wordnet.synset('outside.n.01')
+    outside_score = obj_wn.wup_similarity(outside)
+    total_neg_corr = outside_score
 
     return total_pos_corr - 2*total_neg_corr
 
 
 def get_trash_score(obj):
-    s = ConceptNetApi.cne[obj]
-    p = ConceptNetApi.cne['trash_score']
+    ns = Namespace('http://wordnet/')
+    s = ns[obj]
+    p = ns['trash_score']
     graph = TripleStore.get_triples_as_graph(s=s, p=p)
 
     if not graph:
@@ -49,7 +55,7 @@ if __name__ == "__main__":
         obj = row['object']
         trash = row['trash']
         score = get_trash_score(obj)
-        class_as_trash = int(score > Literal(0.3))
+        class_as_trash = int(score > Literal(-0.1))
         new_row = {"object": obj,
                    "trash": trash,
                    "score": score,
