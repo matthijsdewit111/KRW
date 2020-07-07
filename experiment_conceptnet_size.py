@@ -8,12 +8,12 @@ cen = Namespace('/c/en/')
 
 
 def calculate_size_score(obj):
-    # the higher the relatedness, the more likely object is trash
+    # the higher the relatedness, the more likely object is small
     small_score = ConceptNetApi.get_relatedness(cen[obj], cen['small'])
     light_score = ConceptNetApi.get_relatedness(cen[obj], cen['light'])
     total_pos_corr = small_score + light_score
 
-    # the higher the relatedness, the less likely object is trash
+    # the higher the relatedness, the less likely object is small
     large_score = ConceptNetApi.get_relatedness(cen[obj], cen['large'])
     heavy_score = ConceptNetApi.get_relatedness(cen[obj], cen['heavy'])
     total_neg_corr = large_score + heavy_score
