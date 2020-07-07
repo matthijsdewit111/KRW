@@ -33,6 +33,7 @@ def get_trash_score(obj):
         score = calculate_trash_score(obj)
         o = Literal(score)
         graph.add((s, p, o))
+        graph.bind('cne', ConceptNetApi.cne)
         # upload for future queries
         TripleStore.upload_triples_as_graph(graph)
 

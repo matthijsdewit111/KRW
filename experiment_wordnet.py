@@ -29,9 +29,9 @@ def calculate_trash_score(obj):
 
 
 def get_trash_score(obj):
-    ns = Namespace('http://wordnet/')
-    s = ns[obj]
-    p = ns['trash_score']
+    wnns = Namespace('http://wordnet.princeton.edu/')
+    s = wnns[obj]
+    p = wnns['trash_score']
     graph = TripleStore.get_triples_as_graph(s=s, p=p)
 
     if not graph:
@@ -39,6 +39,7 @@ def get_trash_score(obj):
         score = calculate_trash_score(obj)
         o = Literal(score)
         graph.add((s, p, o))
+        graph.bind('wn', wnns)
         # upload for future queries
         TripleStore.upload_triples_as_graph(graph)
 

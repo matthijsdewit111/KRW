@@ -29,25 +29,6 @@
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
     <span class="navbar-toggler-icon"></span>
   </button>
-  <!-- <div class="collapse navbar-collapse" id="collapsibleNavbar">
-    <ul class="navbar-nav">
-      <li class="navbar-brand">
-        <a class="nav-link" href="templates/theory.html">Theory</a>
-      </li>
-      <li class="navbar-brand">
-        <a class="nav-link" href="templates/model.html">Model</a>
-      </li>
-      <li class="navbar-brand">
-        <a class="nav-link" href="templates/experiment.html">Experiment</a>
-      </li>
-      <li class="navbar-brand">
-        <a class="nav-link" href="templates/results.html">Results</a>
-      </li>
-      <li class="navbar-brand">
-        <a class="nav-link" href="templates/conclusion.html">Conclusion</a>
-      </li>
-    </ul>
-  </div> -->
 </nav>
 
 <div class="container" style="margin-top:30px">
@@ -61,7 +42,45 @@
     </div>
 
     <div class="col-sm-8">
+        Query whether object is trash using conceptnet: <input type="text" id="cntrash-input"> <input type="button" value="query" id="cntrash-button" onclick="cntrash()">
+        <br>
+        <input type="text" id="cntrash-output">
+        <br><br>
+        Query whether object is trash using wordnet: <input type="text" id="wntrash-input"> <input type="button" value="query" id="wntrash-button" onclick="wntrash()">
+        <br>
+        <input type="text" id="wntrash-output">
+        <br><br>
+        Query size of object using conceptnet: <input type="text" id="cnsize-input"> <input type="button" value="query" id="cnsize-button" onclick="cnsize()">
+        <br>
+        <input type="text" id="cnsize-output">
     </div>
+
+    <script>
+        function cntrash() {
+            function successHandler(result) {
+                document.getElementById("cntrash-output").value = result;
+            }
+            var input = document.getElementById("cntrash-input").value;
+            result = $.ajax({url: "/cntrash/" + input, type: 'GET', success: successHandler})
+        }
+
+        function wntrash() {
+            function successHandler(result) {
+                document.getElementById("wntrash-output").value = result;
+            }
+            var input = document.getElementById("wntrash-input").value;
+            result = $.ajax({url: "/wntrash/" + input, type: 'GET', success: successHandler})
+        }
+
+        function cnsize() {
+            function successHandler(result) {
+                document.getElementById("cnsize-output").value = result;
+            }
+            var input = document.getElementById("cnsize-input").value;
+            result = $.ajax({url: "/cnsize/" + input, type: 'GET', success: successHandler})
+        }
+    </script>
+        
   </div>
 </div>
 
