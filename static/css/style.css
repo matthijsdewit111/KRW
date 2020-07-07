@@ -1,0 +1,91 @@
+.title {
+  background-size: cover;
+  background-color: cornflowerblue;
+  /* background-image: url("https://github.com/matthijsdewit111/CSS/blob/master/static/img/background2.png?raw=true"); */
+}
+
+#title {
+  color: white;
+}
+
+.serif {
+  font-family: "Georgia", Georgia, serif;
+  /* font-weight: bold; */
+}
+
+.white {
+  color: white !important;
+  /* font-weight: bold; */
+}
+
+.grey {
+  color: grey !important;
+}
+
+.jumbotron {
+  border-radius: 0 !important;
+}
+
+/* Style the navbar */
+#navbar {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Navbar links */
+#navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+/* Page content */
+.content {
+  padding: 16px;
+}
+
+/* The sticky class is added to the navbar with JS when it reaches its scroll position */
+.sticky {
+  position: relative;
+  top: 0;
+  width: 100%;
+}
+
+/* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
+.sticky + .content {
+  padding-top: 60px;
+}
+
+body {
+    overflow-x: hidden !important;
+}
+
+.grey-box {
+  background-color: #e3f2fd;
+  padding: 16px;
+  border-radius: 10px;
+}
+
+.sticky-offset {
+    top: 70px;
+    background-color: white;
+}
+
+.hyp-item-red:hover {
+  background-color: red;
+  /* padding: 16px; */
+  border-radius: 10px;
+  color: white;
+
+}
+
+.hyp-item-green:hover {
+  background-color: green;
+  /* padding: 16px; */
+  border-radius: 10px;
+  color: white;
+
+}
