@@ -10,7 +10,8 @@ Run `app.py` to start a local webserver at http://127.0.0.1:5000/
 
 ## Run experiments
 
-Run `experiment_*.py` to get an evaluation of our method across some test data (`test-data.csv`)
+Run `experiment_*.py` to get an evaluation of our method across some test data (`test-data.csv`).  
+Running the `conceptnet` experiments gives some errors the first time you run it, since there is a restriction on how many times we can query from conceptnet. The solution is to wait 1 minute and try again, intermidiate results are stored in GraphDB triplestore so we don't need to query the onces we already queried the first time.
 
 Or query objects using the webpage, input an object name, like car, plastic_bottle or anything else, and press query.
 
